@@ -7,6 +7,7 @@
 </tr></table>
 
 可以发弹幕ImageView，可以自定义弹幕的方向，弹幕的速度，弹幕的行数等等。
+可用于商品，商铺，景区的评价展示页面。
 
 ## 效果展示
 ![示例](http://oqg7nynni.bkt.clouddn.com/tankimage.gif) 
