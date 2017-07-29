@@ -13,7 +13,7 @@
 
 ## 关于
 视频上跑弹幕已经很常见了，前段时间在支付宝的口碑人气眼中看到的在图片上跑的弹幕，挺不错的，可惜应该是Web页面。<br/>
-所以自己封装了一个用于播放弹幕的ImageView，封装起来。
+所以自己封装了一个用于播放弹幕的ImageView，封装起来。<br/>
 欢迎 Star , Issues , Fork 。
 
 ## 使用
@@ -83,6 +83,11 @@ Add it in your root build.gradle at the end of repositories:
 
 Add the dependency
 
-	dependencies {
-	        compile 'com.github.QzwJuHao:ColorUtils:v1.0.0'
+		dependencies {
+	        compile 'com.github.QzwJuHao:tokenImage:V1.0.0'
 	}
+
+## Last
+
+希望你能加入我，一起完美这个项目,哪怕只是简单的测试。<br/>
+我的邮箱：qizewei@vip.qq.com
