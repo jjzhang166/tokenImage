@@ -5,9 +5,9 @@
 <td><img src="https://img.shields.io/badge/API-15%2B-brightgreen.svg" alt="API 15+"／></td>
 <td><img src="https://img.shields.io/badge/QQ-779754469-red.svg" alt="QQ:779754469"／></td>
 </tr></table>
+比较流行的直播弹幕是我写这个View的灵感，一个可以发弹幕的ImageView。<br/>
+可以发弹幕ImageView，可以自定义弹幕的方向，弹幕的速度，弹幕的行数等等。
 
-可以发弹幕ImageView，可以自定义弹幕的方向，弹幕的速度，弹幕的行数等等。<br/>
-可用于商品，商铺，景区的评价展示页面。
 
 ## 效果展示
 ![示例](http://oqg7nynni.bkt.clouddn.com/tankimage.gif) 
